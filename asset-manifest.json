@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kavya-chinchankar/React_TextUtlis/static/css/main.f855e6bc.css",
+    "main.js": "/Kavya-chinchankar/React_TextUtlis/static/js/main.fd287dd2.js",
+    "static/js/453.02b6ed6f.chunk.js": "/Kavya-chinchankar/React_TextUtlis/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/Kavya-chinchankar/React_TextUtlis/index.html",
+    "main.f855e6bc.css.map": "/Kavya-chinchankar/React_TextUtlis/static/css/main.f855e6bc.css.map",
+    "main.fd287dd2.js.map": "/Kavya-chinchankar/React_TextUtlis/static/js/main.fd287dd2.js.map",
+    "453.02b6ed6f.chunk.js.map": "/Kavya-chinchankar/React_TextUtlis/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fd287dd2.js"
+  ]
+}
